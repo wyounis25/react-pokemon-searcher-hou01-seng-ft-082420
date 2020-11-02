@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Walid Younis",
+      "hp": "1000",
+      "sprites": {
+        "front": " https://cdn.bulbagarden.net/upload/thumb/f/f9/244Entei.png/1200px-244Entei.png",
+        "back": "https://i.pinimg.com/originals/96/b7/83/96b78314946222fb9e223f3936a56c1c.png"
+      },
+      "id": 151
     }
   ]
 }
